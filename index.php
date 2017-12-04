@@ -1,3 +1,5 @@
 <?php  
-echo "hello word php project";
+
+echo "hello word 22222";
+
 ?>
